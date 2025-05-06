@@ -50,7 +50,7 @@ I hold a degree in Systems Analysis and Development and I'm driven by creating *
 
 ## 📫 Let’s Connect
 
-🔗 [me.hidev](https://me.hidev.cc)
+🔗 [rempel](https://me.hidev.cc/u/rempel)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/gabrielrempel/)  
 
