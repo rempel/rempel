@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel Rempel
 
-💻 **Full Stack Developer** with 16+ years of experience in **Java, PHP, and JavaScript**  
+💻 **Full Stack Developer** with 18+ years of experience in **Java, PHP, and JavaScript**  
 🧠 Passionate about **clean code**, **software architecture**, and delivering full web solutions  
 🌍 Experienced in projects around the world
 
